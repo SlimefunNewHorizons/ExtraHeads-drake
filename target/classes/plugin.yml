@@ -1,6 +1,0 @@
-name: ExtraHeads
-version: 11.0-Drake-1.21.1-SNAPSHOT
-main: com.github.drakescraft_labs.extraheads.ExtraHeads
-api-version: '1.21'
-depend: [Slimefun]
-authors: [DrakesCraft Labs]
